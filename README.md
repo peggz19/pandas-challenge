@@ -6,3 +6,7 @@ See below the links of the formulas I used but we didn't learn in class :
 
 nunique () - https://www.statology.org/pandas-count-unique-values/#:~:text=You%20can%20use%20the%20nunique,values%20in%20a%20pandas%20DataFrame.
 
+first() - https://stackoverflow.com/questions/68091878/pandas-get-unique-values-in-one-column-based-off-of-another-column-python
+
+per_school_summary = reduce(lambda a,b: pd.merge(a,b, on = 'school_name', how='outer'),per_school_list) - https://stackoverflow.com/questions/52223045/merge-multiple-dataframes-based-on-a-common-column 
+
