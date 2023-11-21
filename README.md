@@ -3,7 +3,7 @@
 Hello and welcome to Peggy Tadi's pandas challenge.
 
 When creating the School Summary Table, I didn't find how to merge series into Data Frames hence the long calculations to turn the groupby series into singular DataFrames before merging them all into a big one.
-Later on, when doing the Math Score by Grade, I was able to find who to merge series into a DataFrame.
+Later on, when doing the Math Score by Grade, I was able to find how to merge series into a DataFrame.
 
 See below the links of the formulas I used but we didn't learn in class :
 
